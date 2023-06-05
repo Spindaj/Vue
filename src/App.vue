@@ -1,6 +1,5 @@
 <script setup>
 import segundo from './components/segundo.vue'
-import primeiro from './components/primeiro.vue'
 import uau from './components/uau.vue'
 </script>
 
